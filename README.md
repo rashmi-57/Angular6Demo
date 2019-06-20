@@ -1,2 +1,2 @@
 # Angular6Demo
-demo project on angular 6
+demo project on Angular6
